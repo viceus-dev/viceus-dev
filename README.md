@@ -9,6 +9,8 @@
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viceus-dev&theme=swift&icon_color=000000&title_color=000000&layout=compact&langs_count=4&card_width=320" />
     </td>
   </tr>
+</table>
+<table>
   <tr>
     <td width="60%">
       <h2>Colaborações Externas</h2>
@@ -22,7 +24,7 @@
       • Web Scraping
       • Aprendizado Federado
     </td>
-    <td width="320">
+    <td width="40%">
       <h2>Tecnologias</h2>
       <p>
         Python<br>
