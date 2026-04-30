@@ -10,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <td width="80%">
+    <td width="60%">
       <h2>Colaborações Externas</h2>
       • <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
        - <i>Cidades Inteligentes</i>
