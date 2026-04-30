@@ -2,7 +2,7 @@
 <!--ABOUT-->
 <table>
   <tr>
-    <td width="50%">
+    <td width="60%">
       Me chamo Matheus, atualmente como estudante de Engenharia da Computação, atuando com desenvolvimento de software e análise de dados. Tenho interesse em construir soluções com dados e softwares que realmente gerem impacto, não apenas código funcional, mas sistemas que façam sentido dentro de um contexto real de negócio e possam agregar valor.
     </td>
     <td>
@@ -13,27 +13,23 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="60%">
       <h2>Colaborações Externas</h2>
       <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
       <i>Cidades Inteligentes</i>
-  <br><br>
-
-<h2>Áreas de Interesse</h2>
-Análise de Dados • Engenharia de Software • Engenharia de Machine Learning
-
-<td width="50%" valign="top">
-<h2>Tecnologias</h2>
-
-<p>
-Python<br>
-Pandas<br>
-NumPy<br>
-Scikit-learn<br>
-SQL<br>
-Git<br>
-</p>
-
-  </td>
+      <br><br>
+      <h2>Áreas de Interesse</h2>
+      Análise de Dados • Engenharia de Software • Engenharia de Machine Learning
+    </td>
+    <td>
+      <p>
+        Python<br>
+        Pandas<br>
+        NumPy<br>
+        Scikit-learn<br>
+        SQL<br>
+        Git<br>
+      </p>
+    </td>
   </tr>
 </table>
