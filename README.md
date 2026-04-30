@@ -9,17 +9,18 @@
       <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viceus-dev&theme=swift&icon_color=000000&title_color=000000&layout=compact&langs_count=4&card_width=320" />
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width="80%">
       <h2>Colaborações Externas</h2>
-      <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
-      <i>Cidades Inteligentes</i>
+      • <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
+       - <i>Cidades Inteligentes</i>
       <br><br>
       <h2>Áreas de Interesse</h2>
-      Análise de Dados • Engenharia de Software • Engenharia de Machine Learning
+      • Análise de Dados 
+      • Engenharia de Software 
+      • Engenharia de Machine Learning
+      • Web Scraping
+      • Aprendizado Federado
     </td>
     <td width="320">
       <h2>Tecnologias</h2>
