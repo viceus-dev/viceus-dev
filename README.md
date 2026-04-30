@@ -26,14 +26,9 @@
     </td>
     <td width="40%" valing="top">
       <h2>Tecnologias</h2>
-      <p>
-        Python<br>
-        Pandas<br>
-        NumPy<br>
-        Scikit-learn<br>
-        SQL<br>
-        Git<br>
-      </p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
   </tr>
 </table>
