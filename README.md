@@ -10,3 +10,10 @@
     </td>
   </tr>
 </table>
+
+<h2>Colaborações Externas</h2>
+[Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)](https://lacis.ufpa.br/) | *Cidades Inteligentes*
+
+<h2>Áreas de Interesse</h2>
+[Análise de Dados] [Engenharia de Software] [Engenharia de Machine Learning]
+
