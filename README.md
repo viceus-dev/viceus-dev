@@ -12,19 +12,19 @@
 </table>
 <table>
   <tr>
-    <td width="60%" valing="top">
+    <td width="60%" valign="top">
       <h2>Colaborações Externas</h2>
       • <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
-       - <i>Cidades Inteligentes</i>
+      - <i>Cidades Inteligentes</i>
       <br><br>
       <h2>Áreas de Interesse</h2>
-      • Análise de Dados 
-      • Engenharia de Software 
-      • Engenharia de Machine Learning
-      • Web Scraping
+      • Análise de Dados <br>
+      • Engenharia de Software <br>
+      • Engenharia de Machine Learning <br>
+      • Web Scraping <br>
       • Aprendizado Federado
     </td>
-    <td width="40%" valing="top">
+    <td width="40%" valign="top">
       <h2>Tecnologias</h2>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <br>
