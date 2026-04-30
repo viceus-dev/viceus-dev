@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="80%">
       <h2>Colaborações Externas</h2>
       <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
       <i>Cidades Inteligentes</i>
@@ -22,6 +22,7 @@
       Análise de Dados • Engenharia de Software • Engenharia de Machine Learning
     </td>
     <td>
+      <h2>Tecnologias</h2>
       <p>
         Python<br>
         Pandas<br>
