@@ -6,7 +6,7 @@
       Me chamo Matheus, atualmente como estudante de Engenharia da Computação, atuando com desenvolvimento de software e análise de dados. Tenho interesse em construir soluções com dados e softwares que realmente gerem impacto, não apenas código funcional, mas sistemas que façam sentido dentro de um contexto real de negócio e possam agregar valor.
     </td>
     <td>
-      <img height="900" align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=viceus-dev&theme=default&layout=compact&langs_count=4&card_width=500&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viceus-dev&theme=default&layout=compact&langs_count=4&card_width=380&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
     </td>
   </tr>
 </table>
