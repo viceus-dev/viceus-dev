@@ -6,29 +6,33 @@
       Me chamo Matheus, atualmente como estudante de Engenharia da Computação, atuando com desenvolvimento de software e análise de dados. Tenho interesse em construir soluções com dados e softwares que realmente gerem impacto, não apenas código funcional, mas sistemas que façam sentido dentro de um contexto real de negócio e possam agregar valor.
     </td>
     <td>
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viceus-dev&theme=swift&icon_color=000000&title_color=000000&layout=compact&langs_count=4&card_width=320" />
+      <img height="900" align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=viceus-dev&theme=default&layout=compact&langs_count=4&card_width=500&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
     </td>
   </tr>
 </table>
-<table width="100%">
+
+<table widht="100%">
   <tr>
     <td width="60%" valign="top">
-      <h2>Colaborações Externas</h2>
-      • <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
-      - <i>Cidades Inteligentes</i>
-      <br><br>
+      <h2 width="60%">Contribuições Externas</h2>
+      <a href="https://lacis.ufpa.br/"> [Laboratório de Cidade Inteligentes e Sustentáveis] (LACIS) </a>
+      <i> - Cidades Inletigentes</i>
       <h2>Áreas de Interesse</h2>
-      • Análise de Dados <br>
-      • Engenharia de Software <br>
-      • Engenharia de Machine Learning <br>
-      • Web Scraping <br>
-      • Aprendizado Federado
+      <ul>
+        <li>Aprendizado Federado</li>
+        <li>Análise de Dados</li>
+        <li>Engenharia de Machine Learnign</li>
+      </ul>
     </td>
     <td valign="top">
       <h2>Tecnologias</h2>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
+          <img src="https://skillicons.dev/icons?i=python,flask,docker,git" />
+        </a>
+      </p>
     </td>
   </tr>
-</table>
+  
+<table>
