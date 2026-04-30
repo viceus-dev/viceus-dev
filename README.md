@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-<table>
+<table width="100%">
   <tr>
     <td width="60%" valign="top">
       <h2>Colaborações Externas</h2>
@@ -24,7 +24,7 @@
       • Web Scraping <br>
       • Aprendizado Federado
     </td>
-    <td width="40%" valign="top">
+    <td valign="top">
       <h2>Tecnologias</h2>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <br>
