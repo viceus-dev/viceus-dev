@@ -21,7 +21,7 @@
       <h2>Áreas de Interesse</h2>
       Análise de Dados • Engenharia de Software • Engenharia de Machine Learning
     </td>
-    <td>
+    <td width="320">
       <h2>Tecnologias</h2>
       <p>
         Python<br>
