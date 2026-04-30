@@ -11,9 +11,38 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <!-- COLUNA ESQUERDA -->
+    <td width="60%" valign="top">
+
 <h2>Colaborações Externas</h2>
-[Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)](https://lacis.ufpa.br/) | *Cidades Inteligentes*
+
+<a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
+<i>Cidades Inteligentes</i>
+
+<br><br>
 
 <h2>Áreas de Interesse</h2>
-[Análise de Dados] [Engenharia de Software] [Engenharia de Machine Learning]
 
+Análise de Dados • Engenharia de Software • Engenharia de Machine Learning
+
+    </td>
+
+    <!-- COLUNA DIREITA -->
+    <td width="40%" valign="top">
+
+<h2>Tecnologias</h2>
+
+<p>
+Python<br>
+Pandas<br>
+NumPy<br>
+Scikit-learn<br>
+SQL<br>
+Git<br>
+</p>
+
+    </td>
+  </tr>
+</table>
