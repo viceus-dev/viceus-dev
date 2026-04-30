@@ -1,1 +1,1 @@
-<h1> Matheus Rodrigues | Data Analist | Python Developer </h1>
+<h1 align="center"> Matheus Rodrigues | Data Analist | Python Developer </h1>
