@@ -12,7 +12,7 @@
 </table>
 <table>
   <tr>
-    <td width="60%">
+    <td width="60%" valing="top">
       <h2>Colaborações Externas</h2>
       • <a href="https://lacis.ufpa.br/">Laboratório de Cidades Inteligentes e Sustentáveis (LaCIS)</a>  
        - <i>Cidades Inteligentes</i>
@@ -24,7 +24,7 @@
       • Web Scraping
       • Aprendizado Federado
     </td>
-    <td width="40%">
+    <td width="40%" valing="top">
       <h2>Tecnologias</h2>
       <p>
         Python<br>
