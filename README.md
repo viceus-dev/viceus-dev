@@ -22,6 +22,7 @@
         <li>Aprendizado Federado</li>
         <li>Análise de Dados</li>
         <li>Engenharia de Machine Learnign</li>
+        <br>
       </ul>
     </td>
     <td valign="top">
