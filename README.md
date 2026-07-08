@@ -19,8 +19,9 @@
       <i> - Cidades Inletigentes</i>
       <h2>Áreas de Interesse</h2>
       <ul>
+        <li>Engenharia de Software</li>
         <li>Aprendizado Federado</li>
-        <li>Análise de Dados</li>
+        <li>Análise e Modelagem de Dados</li>
         <li>Engenharia de Machine Learnign</li>
         <br>
       </ul>
